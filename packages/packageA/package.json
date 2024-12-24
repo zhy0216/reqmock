@@ -1,0 +1,9 @@
+{
+  "name": "packagea",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "sleep": "sleep 1"
+  }
+}
